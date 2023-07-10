@@ -1,8 +1,8 @@
 /* Cabeçalho do site */
 
 .cabecalho__menu-hamburguer{
-    width: 24px;
-    height: 24px;
+    width: 30px;
+    height: 40px;
     background-image: url("../Assets/Menu.svg");
     display: inline-block;
 }
@@ -41,7 +41,7 @@
     font-weight: 700;
 }
 
-.lista-menu__item{
+.lista-menu__link{
     background: var(--azul-degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
