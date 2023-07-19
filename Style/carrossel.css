@@ -10,10 +10,10 @@
 
 .swiper-slide img{
     width: 100%;
-    justify-content: space-between;
 }
 
-.swiper-button-prev, .swiper-button-next{
+.swiper-button-prev,
+.swiper-button-next{
     display: none;
 }
 
@@ -27,6 +27,7 @@
     justify-content: space-between;
     margin-bottom:  0.5em; ;
 }
+
 
 .card__botoes{
     display: flex;
